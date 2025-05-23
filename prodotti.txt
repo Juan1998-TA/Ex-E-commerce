@@ -1,0 +1,11 @@
+Nome;Tipo;Prezzo;Marca
+Jeans;Abbigliamento;29.99;Carrera
+Pantaloncino;Abbigliamento;13.99;Levis
+Jeans;Abbigliamento;39.99;Levis
+Pantaloncino;Abbigliamento;9.99;Diesel
+T-Shirt;Abbigliamento;15.99;Fruit
+Polo;Abbigliamento;25.99;Ralph Lauren
+Giacca;Abbigliamento;49.99;North Face
+Scarpe;Calzature;59.99;Nike
+Sandali;Calzature;19.99;Birkenstock
+Cappello;Accessori;12.99;Adidas

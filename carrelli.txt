@@ -1,0 +1,13 @@
+Carrelli utenti:
+
+Utente: Giovanni Rossi
+Prodotto 1: Jeans (Carrera) - Prezzo: 29.99
+Prodotto 2: Pantaloncino (Levis) - Prezzo: 13.99
+
+Utente: Laura Bianchi
+Prodotto 1: Jeans (Levis) - Prezzo: 39.99
+Prodotto 2: Pantaloncino (Diesel) - Prezzo: 9.99
+
+Utente: Luca Verdi
+Prodotto 1: Pantaloncino (Diesel) - Prezzo: 9.99
+
